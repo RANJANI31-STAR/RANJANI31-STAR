@@ -2,10 +2,7 @@
 -         STUDENT
   
 - 📫 How to reach me ...ranjanipalaniveL31@gmail.com
--       
--   
--        
--        
+        
   
 
 <!---
