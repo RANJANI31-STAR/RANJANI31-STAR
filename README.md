@@ -2,8 +2,6 @@
 -         STUDENT
   
 - 📫 How to reach me ...ranjanipalaniveL31@gmail.com
-- LANGUAGES
-     <img src="https://github.com/RANJANI31-STAR/RANJANI31-STAR/assets/159630900/ebb1388b-ba77-4048-991f-1a6962105d87" width="50" height="50">
 
 
         
